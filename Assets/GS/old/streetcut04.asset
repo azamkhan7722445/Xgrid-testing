@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: streetcut04
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 4255928
+  m_BoundsMin: {x: -9.53629, y: -15.564047, z: -29.716303}
+  m_BoundsMax: {x: 8.877467, y: 1.7237296, z: 11.055401}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 97a51ea736c13c366181efe57f72d835
+  m_PosFormat: 2
+  m_ScaleFormat: 2
+  m_SHFormat: 3
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: c463f367510a6b64d95ee1b9558ada76, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 394b584db2a12e949baaabdd1a80b8bf, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 9cb1d020f4ceb6f498c9c8c83a7dd6f4, type: 3}
+  m_SHData: {fileID: 4900000, guid: 5d2c14f54e5d9f1459fff5147640e928, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 88594ffc0c334be4f81b5db08d03434d, type: 3}
+  m_Cameras: []
